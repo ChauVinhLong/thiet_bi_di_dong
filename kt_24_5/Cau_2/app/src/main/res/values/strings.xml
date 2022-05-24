@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cau_2</string>
+    <string-array name="ListViewActivity">
+        <item>Quê Hương</item>
+        <item>Đất nước</item>
+        <item>Việt Nam Tôi</item>
+
+    </string-array>
+</resources>
